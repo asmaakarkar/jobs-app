@@ -12,4 +12,5 @@
         <p>No listings found</p>
         @endunless
     </div>
+
 </x-layout>
